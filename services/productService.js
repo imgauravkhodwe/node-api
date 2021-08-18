@@ -1,4 +1,4 @@
-const Product = require('../Database/models/productModel');
+const Product = require('../database/models/productModel');
 const DBUtil = require('../utils/DBUtil');
 const constant = require('../constants');
 
